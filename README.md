@@ -2,7 +2,7 @@
 
 A Django-based weather prediction and forecasting web application that displays current weather, 5-hour forecast, and machine learning-based temperature and rain predictions.
 
-![UI Screenshot](weatherProject/forecast/static/img/weather-ui.png)
+![UI Screenshot](weatherProject/forecast/static/img/layout.png)
 
 
 ---
